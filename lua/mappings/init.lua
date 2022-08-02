@@ -1,0 +1,6 @@
+require('mappings.ByfferLine')
+require('mappings.lspconfig')
+require('mappings.NvimTree')
+require('mappings.Telescope')
+require('mappings.Floaterm')
+require('mappings.Other')
